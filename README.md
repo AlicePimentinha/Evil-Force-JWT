@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EVIL_JWT_FORCE
 Ferramenta avançada para análise, fuzzing, brute force e exploração de JWT (JSON Web Token), com suporte a múltiplos algoritmos, ataques de força bruta, fuzzing de payloads, injeção SQL, OSINT e geração de relatórios.
 
@@ -104,3 +105,6 @@ Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICE
 
 ## Disclaimer
 This tool is for educational and testing purposes only. Use it responsibly and only on systems you have permission to test.
+=======
+# Evil-Force-JWT
+>>>>>>> b8726a17e43ec564ead4695c10be4451fee934de
