@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-"__pycache__/" 
-"*.pyc" 
-"*.log" 
-".env" 
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -178,4 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
->>>>>>> 82fa57ebb0741b87c7bd8cb6e0331f42cf5ca3e7
+
+# Adicionar outros arquivos ou pastas que não devem ser versionados
+# como /ai_system/data/ ou /ai_system/logs/ se forem muito grandes ou específicos do ambiente
+# ai_system/data/
+# ai_system/logs/
+target/ # Para os artefatos de compilação do Rust
