@@ -1,0 +1,41 @@
+# Requirements for EVIL_JWT_FORCE
+
+# Core dependencies
+python-jwt>=3.3.3
+PyJWT>=2.4.0
+requests>=2.28.1
+httpx>=0.23.0
+tk>=8.6
+Pillow>=9.2.0
+
+# Additional tools for enhanced functionality
+# Uncomment if you have these tools and want to integrate
+# sqlmap
+# jwt_tool
+# theHarvester
+
+colorama
+termcolor
+cryptography
+fake-useragent
+sqlalchemy
+psycopg2-binary
+python-jose
+simplejson==3.19.2
+shodan==1.31.0
+censys
+dnspython
+python-whois
+spyse-python
+validators
+pyperclip
+openpyxl
+reportlab
+lxml
+aiohttp
+pytest
+tabulate
+rich
+mitmproxy
+pyinstaller
+pyyaml
